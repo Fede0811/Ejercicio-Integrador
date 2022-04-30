@@ -1,0 +1,91 @@
+#navegador{
+    color: white !important;
+}
+
+.clase1{padding-left: 85px;}
+
+p{font-size: 2.0em;
+}
+
+.navbar-nav{margin-left: 360px !important;}
+
+#antes{
+    background-image: url(../Fotos/ba1.jpg);
+    background-size: cover;
+    height: 100vh;
+    filter: brightness(50%);
+}
+
+h1{text-align: right;
+    color:white;
+    padding-left: 10px;
+}
+
+#Parrafo1{
+    text-align: right;
+    color: white;
+    padding-left: 50px;
+    font-size: 0.6em
+}
+#tecla{margin-left: 700px;}
+
+.linea1{
+    text-align: center;
+    font-size: 0.8em;
+}
+#titulos{
+    font-size: 2em;
+    color: black;
+    text-align: center;
+}
+.card-text{
+    font-size: 0.8em;
+}
+
+.izquierda{
+    background-image:url(../Fotos/honolulu.jpg);
+    background-size: cover;
+    width: 50%;
+    height: 100vh;
+}
+.derecha{
+    background-color: #2E3647;
+    width: 50%;
+    height: 100vh;
+    padding-left: 15px;
+    padding-top: 30px;
+}
+
+#pantalla_dividida{
+    display: flex;
+}
+
+.parrafo2{
+    color: white;
+    font-size: 0.9em;
+}
+
+#titulo2{
+    color: white;
+}
+
+#recuadro{
+    text-align: center;
+}
+
+#parrafo{
+    font-size: 0.9em;
+}
+
+#parrafo1{
+    font-size: 0.8em;
+}
+
+#pie_de_pagina{
+    background-color:#143577;
+    background: container-fluid;
+    text-decoration: white;
+    font-size: 1em;
+    height: 100px;
+    padding-top: 30px;
+}
